@@ -19,3 +19,5 @@ Let's check to see if it works.
 <img src="https://github.com/keewenaw/hackthissite-2019/blob/master/Basic/screenshots/1success.png" width="500">
 
 Success, it does! Challenge complete.
+
+<i>As an aside, I can verify things like this do happen in the real world. Back in grad school, I freelanced as an independent IT security consultant. No, that's not a euphemism, I had legal contracts and everything. One of my engagements was to break into a private forum; think something similar to phpBB. When I discovered the administrator section, I looked at the source code as per normal. All the way at the bottom of the page, they included a set of credentials in a comment. Only reason I noticed was because I saw the scroll bar on the bottom of my browser seemed much longer than the page source code would indicate. I logged in with them, only to discover the creds were for an admin-level account! Total time to compromise, about 8 minutes. Easiest paycheck I ever made.</i>
