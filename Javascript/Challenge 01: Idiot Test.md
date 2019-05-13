@@ -6,7 +6,7 @@
 
 When we start the challenge, here's what we see:
 
-<img src="https://github.com/keewenaw/hackthissite-2019/blob/master/Javascript/screenshots/1start.png width="500">
+<img src="https://github.com/keewenaw/hackthissite-2019/blob/master/Javascript/screenshots/1start.png" width="500">
 
 When beginning a penetration test of a web-based application, I start by inspecting the source code. When the web app is very simple, having only a few elements, I prefer using "Inspect Element" to view each code snippet separately. You can do that by right-clicking on the element you want to examine, then selecting the "Inspect Element" option.
 
