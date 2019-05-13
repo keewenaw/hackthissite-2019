@@ -1,4 +1,4 @@
-<b>Challenge URL:</b> https://www.hackthissite.org/missions/javascript/1/
+<b>Challenge URL:</b> https://www.hackthissite.org/missions/javascript/5/
 <br><br>
 <i>Did you remember to read this section's <a href="https://github.com/keewenaw/hackthissite-2019/blob/master/Javascript/README.md">README</a>?</i>
 
