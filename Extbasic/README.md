@@ -4,4 +4,4 @@
 
 This folder is for the HackThisSite.org "Extbasic" penetration testing challenges. You can visit the challenges at the following URL: https://www.hackthissite.org/missions/Extbasic/
 
-You complete a challenge by inputting your fixed line of code into the form field. With these, I'll be focusing on how to find the bug rather than just outright giving you the solution, when practical. That way you'll learn the basics of analyzing code and be able to replicate the strategy yourself when faced with similar challenges. That's quite a bit more useful than just giving you the answers.
+You complete a challenge by inputting your fixed line of code into the form field. With these, I'll be focusing on how to find the bug. That means that while I'll be giving you a lot of hints, I won't outright give you the solution if I can help it. That way you'll learn the basics of analyzing code and be able to replicate the strategy yourself when faced with similar challenges. That's quite a bit more useful than just giving you the answers.
