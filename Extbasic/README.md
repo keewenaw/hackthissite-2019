@@ -1,4 +1,4 @@
-# README for HackThisSite Basic Challenges
+# README for HackThisSite Extbasic Challenges
 
 <i>If you haven't already, please review my terms and conditions <a href="https://github.com/keewenaw/hackthissite-2019/blob/master/README.md" target="_blank">here</a>.</i>
 
